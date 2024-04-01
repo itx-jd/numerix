@@ -1,0 +1,1 @@
+websiteComponents.loader.define("website.components.shape.handlers",[],(()=>(()=>{"use strict";var e={};return(()=>{var t=e;Object.defineProperty(t,"__esModule",{value:!0});class i{componentDidUpdate({visitor:e}){e.reinitialize()}}t.default=()=>new i})(),e})()));

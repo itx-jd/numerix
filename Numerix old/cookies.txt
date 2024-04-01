@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.numericx.co.uk	TRUE	/	FALSE	1999999999	crumb	BSIP0N887rXKYzYyNDQ0N2M0Y2YzZDk4MGFiM2YyNzA4MGMzYzE3
+.calendly.com	TRUE	/	FALSE	1999999999	__cf_bm	EAo5cWxSPdFqSoM8C70R9LfUwho9MYzWq8dS3EwCaM8-1712000629-1.0.1.1-zW_JX_kjJX22gNAOMIRq_2U4ntPBAx6cAVkzlGv.s6C73jYgJnXvVLzZa8sI06Z7wse6_RxdoMHFGjIgFIsxpw
+.calendly.com	TRUE	/	FALSE	1999999999	__cfruid	0f68c053bcd58fddbb167934ba5e3606d97cf87f-1712000629
+calendly.com	TRUE	/	FALSE	1999999999	SameSite	None
+
